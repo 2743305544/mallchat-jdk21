@@ -10,7 +10,7 @@
 异常增强和类型推断语法
 废除重复多余的crud业务，编写重要业务，符合学习逻辑
 ## 项目概述
-
+原项目地址：https://github.com/zongzibinbin/MallChat
 MallChat 是一个现代化的聊天平台，具有以下特点：
 
 - 基于 WebSocket 的实时通信
