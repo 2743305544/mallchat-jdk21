@@ -1,16 +1,17 @@
 # MallChat
 
 基于抹茶项目的重构
-升级为JDK21，根据jdk21新api重新编写处理逻辑
-升级为 Spring Boot 3.4.3
-升级mybatis-plus等依赖符合springboot3.4.3版本，并重新定义配置
-更改为openapi3规范
-重新构建webSocket处理逻辑
-虚拟线程处理IO集中性业务
-异常增强和类型推断语法
-废除重复多余的crud业务，编写重要业务，符合学习逻辑
+- 升级为JDK21，根据jdk21新api重新编写处理逻辑
+- 升级为 Spring Boot 3.4.3
+- 升级mybatis-plus等依赖符合springboot3.4.3版本，并重新定义配置
+- 更改为openapi3规范
+- 重新构建webSocket处理逻辑
+- 虚拟线程处理IO集中性业务
+- 异常增强和类型推断语法
+- 废除重复多余的crud业务，编写重要业务，符合学习逻辑
 ## 项目概述
-原项目地址：https://github.com/zongzibinbin/MallChat
+- 原项目地址：https://github.com/zongzibinbin/MallChat
+
 MallChat 是一个现代化的聊天平台，具有以下特点：
 
 - 基于 WebSocket 的实时通信
